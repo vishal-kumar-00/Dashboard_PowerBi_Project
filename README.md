@@ -1,7 +1,10 @@
 # Dashboard_PowerBi_Project
 Madhav E-commerce Sales Performance Dashboard
+
 Tool: Power BI
+
 Purpose:
+
 This interactive dashboard is designed to monitor and evaluate the sales performance of an e-commerce business across key dimensions such as time, geography, customer behavior, and product categories.
 
 Key Features & Insights:
@@ -49,6 +52,6 @@ DAX measures for KPI calculations (Amount, Profit, Quantity, AOV)
 Data categorization for regions, product types, and payment methods.
 
 Screenshots:
-Dashboard Previwe(https://github.com/vishal-kumar-00/Dashboard_PowerBi_Project/blob/main/Dashboard%20pi.PNG)
+[Dashboard Preview].(https://github.com/vishal-kumar-00/Dashboard_PowerBi_Project/blob/main/Dashboard%20pi.PNG).
 
 
