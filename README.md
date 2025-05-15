@@ -52,6 +52,8 @@ DAX measures for KPI calculations (Amount, Profit, Quantity, AOV)
 Data categorization for regions, product types, and payment methods.
 
 Screenshots:
-[Dashboard Preview].(https://github.com/vishal-kumar-00/Dashboard_PowerBi_Project/blob/main/Dashboard%20pi.PNG).
+# output
+![Dashboard pi](https://github.com/user-attachments/assets/e5818904-cb22-44eb-ab7e-a6f7583c829b)
+
 
 
